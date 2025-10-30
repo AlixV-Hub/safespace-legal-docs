@@ -14,6 +14,7 @@ Ce registre est établi conformément à l'article 30 du Règlement Général su
 
 ---
 
+<<<<<<< HEAD
 ## TABLE DES MATIÈRES
 
 1. [Traitement 1 : Collecte de données pour entraînement IA](#traitement-1)
@@ -25,6 +26,8 @@ Ce registre est établi conformément à l'article 30 du Règlement Général su
 
 ---
 
+=======
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 ## TRAITEMENT 1 : Collecte de données pour entraînement IA {#traitement-1}
 
 ### Finalité
@@ -38,12 +41,15 @@ Constituer un dataset d'entraînement pour le modèle de classification automati
 - **Données obligatoires** :
   - Témoignage textuel (description de faits de violence)
   - Catégorie de violence (harcèlement moral, sexuel, discrimination, etc.)
+<<<<<<< HEAD
   - Contexte (secteur d'activité, ancienneté, taille entreprise)
   
 - **Données facultatives** :
   - Région géographique (niveau département, pas de ville)
   - Tranche d'âge (18-25, 26-35, etc.)
   - Genre ressenti
+=======
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 ### Catégories de personnes concernées
 - Victimes de violences au travail
@@ -75,6 +81,7 @@ Constituer un dataset d'entraînement pour le modèle de classification automati
 - ✅ Droit à l'effacement (suppression immédiate sur demande)
 - ✅ Droit d'opposition (retrait du consentement)
 - ✅ Droit à la portabilité (export des données)
+<<<<<<< HEAD
 
 ---
 
@@ -331,6 +338,9 @@ Orienter utilisateurs vers ressources d'aide (avocats, associations, psychologue
 
 ---
 
+=======
+---
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 ## OBLIGATIONS ET PROCÉDURES
 
 ### Exercice des droits
@@ -362,6 +372,7 @@ Orienter utilisateurs vers ressources d'aide (avocats, associations, psychologue
 
 ---
 
+<<<<<<< HEAD
 ## SOUS-TRAITANTS
 
 **Hébergement** :
@@ -373,6 +384,11 @@ Orienter utilisateurs vers ressources d'aide (avocats, associations, psychologue
 **Service IA** :
 - **Nom** : Aucun (modèle auto-hébergé)
 - **Alternative LLM** : OpenAI, Anthropic (si utilisé, DPA requis)
+=======
+
+**Service IA** :
+- **Nom** : Aucun (modèle auto-hébergé)
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 ---
 

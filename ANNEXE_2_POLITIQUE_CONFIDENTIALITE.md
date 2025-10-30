@@ -28,8 +28,11 @@ La protection de vos données personnelles est notre **priorité absolue**. Cett
 **Qualité** : Créateur et responsable de Safe Space  
 **Contact** : alixveyrat@gmail.com  
 
+<<<<<<< HEAD
 **Délégué à la Protection des Données (DPO)** : alixveyrat@gmail.com  
 *Note : Pour un projet de cette envergure, un DPO externe sera nommé avant mise en production.*
+=======
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 ---
 
@@ -54,6 +57,7 @@ La protection de vos données personnelles est notre **priorité absolue**. Cett
 
 **Durée de conservation** : 3 ans (amélioration continue IA)
 
+<<<<<<< HEAD
 ---
 
 ### 3.2. Comptes Utilisateurs (Plateforme)
@@ -188,11 +192,14 @@ La protection de vos données personnelles est notre **priorité absolue**. Cett
 
 ---
 
+=======
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 ## 4. DESTINATAIRES DES DONNÉES
 
 ### 4.1. Accès internes
 
 **Équipe Safe Space** :
+<<<<<<< HEAD
 - Développeurs (maintenance technique, accès limité)
 - Modérateurs (validation signalements, formés psycho-trauma)
 - Support technique (assistance utilisateurs)
@@ -236,10 +243,19 @@ Si transfert futur nécessaire, nous appliquerons les **Clauses Contractuelles T
 ---
 
 ## 6. DURÉE DE CONSERVATION
+=======
+- Alix VEYRAT
+
+
+**Accès strictement limité** au minimum nécessaire.
+
+## 5. DURÉE DE CONSERVATION
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 | Donnée | Durée | Justification |
 |--------|-------|---------------|
 | **Formulaire collecte IA** | 3 ans | Amélioration continue modèle |
+<<<<<<< HEAD
 | **Compte utilisateur** | Tant que actif | Exécution contrat |
 | **Signalements** | 6 ans | Prescription pénale |
 | **Preuves coffre-fort** | À votre convenance (max 10 ans) | Prescription civile |
@@ -307,6 +323,16 @@ Nous mettons en œuvre les mesures techniques et organisationnelles les plus str
 Conformément au RGPD, vous disposez des droits suivants :
 
 ### 8.1. Droit d'accès (Article 15)
+=======
+
+---
+
+## 6. VOS DROITS (RGPD)
+
+Conformément au RGPD, vous disposez des droits suivants :
+
+### 6.1. Droit d'accès (Article 15)
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 Vous pouvez obtenir une copie de toutes vos données.
 
 **Comment** : Email à alixveyrat@gmail.com avec justificatif identité  
@@ -314,7 +340,11 @@ Vous pouvez obtenir une copie de toutes vos données.
 
 ---
 
+<<<<<<< HEAD
 ### 8.2. Droit de rectification (Article 16)
+=======
+### 6.2. Droit de rectification (Article 16)
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 Vous pouvez corriger vos données inexactes.
 
 **Comment** : Modification profil ou email à alixveyrat@gmail.com  
@@ -322,7 +352,11 @@ Vous pouvez corriger vos données inexactes.
 
 ---
 
+<<<<<<< HEAD
 ### 8.3. Droit à l'effacement (Article 17)
+=======
+### 6.3. Droit à l'effacement (Article 17)
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 Vous pouvez demander la suppression de vos données.
 
 **Comment** : Suppression compte (bouton dans profil) ou email  
@@ -332,7 +366,11 @@ Vous pouvez demander la suppression de vos données.
 
 ---
 
+<<<<<<< HEAD
 ### 8.4. Droit d'opposition (Article 21)
+=======
+### 6.4. Droit d'opposition (Article 21)
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 Vous pouvez vous opposer au traitement de vos données.
 
 **Comment** : Email à alixveyrat@gmail.com  
@@ -342,7 +380,11 @@ Vous pouvez vous opposer au traitement de vos données.
 
 ---
 
+<<<<<<< HEAD
 ### 8.5. Droit à la portabilité (Article 20)
+=======
+### 6.5. Droit à la portabilité (Article 20)
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 Vous pouvez récupérer vos données dans un format structuré (JSON, CSV).
 
 **Comment** : Email à alixveyrat@gmail.com  
@@ -350,7 +392,11 @@ Vous pouvez récupérer vos données dans un format structuré (JSON, CSV).
 
 ---
 
+<<<<<<< HEAD
 ### 8.6. Droit de limitation (Article 18)
+=======
+### 6.6. Droit de limitation (Article 18)
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 Vous pouvez demander un gel temporaire du traitement.
 
 **Comment** : Email à alixveyrat@gmail.com  
@@ -358,7 +404,11 @@ Vous pouvez demander un gel temporaire du traitement.
 
 ---
 
+<<<<<<< HEAD
 ### 8.7. Droit de retirer le consentement (Article 7.3)
+=======
+### 6.7. Droit de retirer le consentement (Article 7.3)
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 Vous pouvez retirer votre consentement à tout moment (formulaire collecte IA).
 
 **Comment** : Email à alixveyrat@gmail.com  
@@ -366,7 +416,11 @@ Vous pouvez retirer votre consentement à tout moment (formulaire collecte IA).
 
 ---
 
+<<<<<<< HEAD
 ### 8.8. Droit d'introduire une réclamation (Article 77)
+=======
+### 6.8. Droit d'introduire une réclamation (Article 77)
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 Vous pouvez déposer une plainte auprès de la CNIL.
 
 **CNIL** :  
@@ -378,6 +432,7 @@ Site web : https://www.cnil.fr
 
 ---
 
+<<<<<<< HEAD
 ## 9. COOKIES ET TECHNOLOGIES SIMILAIRES
 
 ### 9.1. Cookies essentiels (non désactivables)
@@ -413,6 +468,11 @@ Site web : https://www.cnil.fr
 ## 10. MINEURS
 
 Safe Space est destiné aux **personnes majeures** (18 ans et plus).
+=======
+## 7. MINEURS
+
+LE formulaire de Safe Space est destiné aux **personnes majeures** (18 ans et plus).
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 Si vous avez moins de 18 ans et êtes victime de violences :
 - ☎️ **3919** (numéro national violence)
@@ -423,15 +483,22 @@ Nous ne collectons **pas sciemment** de données de mineurs. Si nous en sommes i
 
 ---
 
+<<<<<<< HEAD
 ## 11. MODIFICATIONS DE LA POLITIQUE
+=======
+## 8. MODIFICATIONS DE LA POLITIQUE
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 Cette Politique peut être mise à jour pour refléter :
 - Évolutions légales (RGPD, ePrivacy)
 - Nouvelles fonctionnalités
 - Améliorations sécurité
 
+<<<<<<< HEAD
 **Notification** : Toute modification substantielle vous sera notifiée par email (ou bannière plateforme).
 
+=======
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 **Historique** :
 | Date | Version | Modifications |
 |------|---------|---------------|
@@ -439,7 +506,11 @@ Cette Politique peut être mise à jour pour refléter :
 
 ---
 
+<<<<<<< HEAD
 ## 12. CONTACT ET QUESTIONS
+=======
+## 9. CONTACT ET QUESTIONS
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 **Pour toute question** sur cette Politique ou vos données :
 
@@ -451,7 +522,11 @@ Cette Politique peut être mise à jour pour refléter :
 
 ---
 
+<<<<<<< HEAD
 ## 13. ENGAGEMENT SAFE SPACE
+=======
+## 10. ENGAGEMENT SAFE SPACE
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 **Notre promesse** :
 
@@ -465,7 +540,11 @@ Cette Politique peut être mise à jour pour refléter :
 
 ---
 
+<<<<<<< HEAD
 ## 14. RESSOURCES UTILES
+=======
+## 11. RESSOURCES UTILES
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 **Aide d'urgence** :
 - ☎️ **3919** - Violence Femmes Info (24/7, gratuit, anonyme)

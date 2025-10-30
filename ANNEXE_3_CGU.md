@@ -10,6 +10,7 @@
 
 ## PRÉAMBULE
 
+<<<<<<< HEAD
 **Safe Space** est une plateforme Tech for Good destinée à accompagner les victimes et témoins de violences au travail en leur fournissant :
 1. Un coffre-fort sécurisé pour conserver des preuves chiffrées
 2. Une qualification juridique automatique par intelligence artificielle
@@ -82,6 +83,30 @@ En utilisant Safe Space, vous acceptez sans réserve les présentes CGU ainsi qu
 
 L'accès à Safe Space nécessite l'acceptation explicite des présentes CGU via :
 - ✅ Checkbox "J'accepte les CGU et la Politique de Confidentialité" (inscription)
+=======
+Ce formulaire est nécéssaire à la création d'un jeu de données destiné à alimenter un model IA local capable de qualifier les violences sexistes et sexuelles au travail.
+
+---
+
+## 1. OBJET 
+
+Les présentes CGU régissent l'utilisation du formulaire de collecte des données.
+
+En utilisant ce formulaire, vous acceptez sans réserve les présentes CGU ainsi que :
+- La [Politique de Confidentialité] (Annexe 2)
+- Le Registre des Traitements (Annexe 1)
+
+**Portée** : Ces CGU s'appliquent à toustes.
+
+---
+
+## 3. ACCEPTATION DES CGU 
+
+### 3.1. Acceptation obligatoire
+
+L'accès au formulaire nécessite l'acceptation explicite des présentes CGU via :
+- ✅ Checkbox "J'accepte les CGU et la Politique de Confidentialité"
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 - ✅ Validation du formulaire de collecte de données (Sprint 0)
 
 **Sans acceptation, l'accès est refusé.**
@@ -99,6 +124,7 @@ En acceptant ces CGU, vous déclarez :
 
 ---
 
+<<<<<<< HEAD
 ## 4. ACCÈS ET INSCRIPTION {#4-acces}
 
 ### 4.1. Création de compte
@@ -151,6 +177,12 @@ Safe Space se réserve le droit de **suspendre ou supprimer** tout compte en cas
 - Espace total : 1 Go (gratuit) / illimité (offre future payante)
 
 ### 5.2. Qualification juridique par IA
+=======
+
+### 4. Le but de ce jeu de données : 
+
+### 4.1 Qualification juridique par IA
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 **Analyse automatique** de votre témoignage pour déterminer :
 - Catégorie de violence (harcèlement moral, sexuel, discrimination, etc.)
@@ -164,7 +196,11 @@ Safe Space se réserve le droit de **suspendre ou supprimer** tout compte en cas
 - Validation humaine recommandée (modérateur)
 - **Consultez un avocat** pour conseil juridique personnalisé
 
+<<<<<<< HEAD
 ### 5.3. Collaboration témoins → victimes
+=======
+### 4.2. Collaboration témoins → victimes
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 **Témoins** peuvent proposer leurs preuves aux victimes :
 - ✅ Anonymat garanti (témoin reste anonyme)
@@ -173,7 +209,11 @@ Safe Space se réserve le droit de **suspendre ou supprimer** tout compte en cas
 
 **Victime** conserve le **contrôle total** (acceptation/déclinaison).
 
+<<<<<<< HEAD
 ### 5.4. Ressources géolocalisées
+=======
+### 4.3. Ressources géolocalisées
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 **Recherche spatiale** (PostGIS) de ressources d'aide :
 - Avocats spécialisés
@@ -183,6 +223,7 @@ Safe Space se réserve le droit de **suspendre ou supprimer** tout compte en cas
 
 **Filtres** : Rayon (5, 10, 20 km), spécialités, gratuit/payant, langues.
 
+<<<<<<< HEAD
 **⚠️ Avertissement** : Safe Space ne garantit pas la qualité des professionnels référencés. Vérifications recommandées.
 
 ---
@@ -197,17 +238,28 @@ Vous vous engagez à utiliser Safe Space de manière **loyale et conforme** :
 - ✅ Respecter les droits d'autrui
 
 ### 6.2. Véracité des informations
+=======
+---
+
+### 5.1 Véracité des informations
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 Vous vous engagez à fournir des informations **véridiques et exactes**.
 
 ❌ **Interdit** :
 - Fausses accusations ou diffamation
+<<<<<<< HEAD
 - Usurpation d'identité
 - Fraude ou manipulation
 
 **Conséquence** : Suspension compte + poursuites judiciaires possibles.
 
 ### 6.3. Contenu interdit
+=======
+- Fraude ou manipulation
+
+### 5.2. Contenu interdit
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 Vous vous engagez à **ne pas publier** :
 
@@ -223,6 +275,7 @@ Vous vous engagez à **ne pas publier** :
 - Harcèlement, menaces, intimidation
 - Informations privées de tiers (doxxing)
 
+<<<<<<< HEAD
 ❌ **Atteinte à Safe Space** :
 - Tentative piratage, injection SQL
 - Déni de service (DDoS)
@@ -300,6 +353,31 @@ Vous vous engagez à indemniser Safe Space en cas de réclamation de tiers due �
 ---
 
 ## 8. PROPRIÉTÉ INTELLECTUELLE {#8-propriete}
+=======
+### 5.3. Respect vie privée d'autrui
+
+Vous vous engagez à respecter la vie privée des tiers mentionnés dans vos preuves :
+- ✅ Anonymiser noms, prénoms, entreprises
+- ✅ Ne pas diffuser publiquement (partage contrôlé uniquement)
+- ❌ Pas de publication sur réseaux sociaux sans consentement
+  
+---
+
+## 6. RESPONSABILITÉS 
+
+### 6.1. Responsabilité de Safe Space
+
+**Engagements** :
+- ✅ Sécuriser vos données
+- ✅ Respecter RGPD et confidentialité
+
+**Limitations** :
+- ⚠️ **Sécurité** : Aucun système n'est inviolable à 100%
+
+---
+
+## 8. PROPRIÉTÉ INTELLECTUELLE 
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 ### 8.1. Propriété de Safe Space
 
@@ -318,6 +396,7 @@ Vous vous engagez à indemniser Safe Space en cas de réclamation de tiers due �
 - ❌ Utiliser logo/marque sans autorisation
 - ❌ Scraping, extraction automatique de données
 
+<<<<<<< HEAD
 **Exception** : Utilisation normale de la plateforme (navigation, fonctionnalités).
 
 ### 8.2. Propriété de l'utilisateur
@@ -332,16 +411,30 @@ En publiant du contenu, vous accordez à Safe Space une licence **limitée, non 
 - ✅ Partager selon vos instructions (avocats, RH, autorités)
 
 **Révocation** : Suppression de votre compte = révocation de la licence.
+=======
+### 8.2. Propriété de l'utilisateur
+
+**Vos contenus** :
+Vous conservez **tous les droits** sur vos témoignages.
+
+**Licence accordée à Safe Space** :
+En publiant du contenu, vous accordez à Safe Space une licence **limitée, non exclusive, révocable** pour :
+- ✅ Stocker vos contenus
+- ✅ Traiter via IA (qualification)
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 **Usage dataset IA** :
 Si vous contribuez au formulaire de collecte (Sprint 0), vous acceptez que votre témoignage **anonymisé** soit utilisé pour entraîner l'IA.
 
+<<<<<<< HEAD
 ---
 
 ## 9. DONNÉES PERSONNELLES {#9-donnees}
 
 Le traitement de vos données personnelles est détaillé dans la [Politique de Confidentialité](#) (Annexe 2).
 
+=======
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 **Résumé** :
 - ✅ Conformité RGPD
 - ✅ Chiffrement end-to-end
@@ -353,6 +446,7 @@ Le traitement de vos données personnelles est détaillé dans la [Politique de 
 
 ---
 
+<<<<<<< HEAD
 ## 10. DURÉE ET RÉSILIATION {#10-duree}
 
 ### 10.1. Durée
@@ -386,6 +480,9 @@ Après résiliation :
 ---
 
 ## 11. MODIFICATIONS DES CGU {#11-modifications}
+=======
+## 9. MODIFICATIONS DES CGU {#11-modifications}
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 Safe Space se réserve le droit de **modifier** ces CGU à tout moment pour :
 - Évolutions légales (RGPD, ePrivacy)
@@ -406,6 +503,7 @@ Safe Space se réserve le droit de **modifier** ces CGU à tout moment pour :
 
 ---
 
+<<<<<<< HEAD
 ## 12. DROIT APPLICABLE ET LITIGES {#12-droit}
 
 ### 12.1. Droit applicable
@@ -423,11 +521,28 @@ En cas de litige, nous encourageons une **résolution amiable** :
 Conformément à l'article L612-1 du Code de la consommation, vous pouvez recourir à un **médiateur** :
 
 **Médiateur de la consommation** (à définir avant production) :
+=======
+## 10. DROIT APPLICABLE ET LITIGES {#12-droit}
+
+### 10.1. Droit applicable
+
+Les présentes CGU sont régies par le **droit français**.
+
+### 10.2. Médiation de la consommation
+
+Conformément à l'article L612-1 du Code de la consommation, vous pouvez recourir à un **médiateur** :
+
+**Médiateur de la consommation** :
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 - Exemple : CMAP (Centre de Médiation et d'Arbitrage de Paris)
 - Gratuit pour le consommateur
 - Délai : 90 jours
 
+<<<<<<< HEAD
 ### 12.4. Juridiction compétente
+=======
+### 10.3. Juridiction compétente
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 En cas d'échec de la médiation, les tribunaux compétents sont ceux du **ressort de Nantes (France)**.
 
@@ -435,7 +550,11 @@ En cas d'échec de la médiation, les tribunaux compétents sont ceux du **resso
 
 ---
 
+<<<<<<< HEAD
 ## 13. CONTACT {#13-contact}
+=======
+## 11. CONTACT {#13-contact}
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 
 **Pour toute question** sur ces CGU :
 
@@ -481,7 +600,11 @@ En cas d'échec de la médiation, les tribunaux compétents sont ceux du **resso
 
 **Safe Space est un projet Tech for Good** :
 
+<<<<<<< HEAD
 ✅ Aucun but lucratif (pour l'instant)  
+=======
+✅ Aucun but lucratif
+>>>>>>> b3a6cfac5e77293fa4e55b63792b579dbfaaa8eb
 ✅ Aucune vente de données  
 ✅ Aucune publicité  
 ✅ Sécurité et confidentialité maximales  
